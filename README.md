@@ -105,7 +105,7 @@ mvn test
 
 ## 🙋‍♂️ Autor
 
-Feito com 💛 por Pedro — desafio técnico HubSpot Java Backend.
+Feito por Pedro — desafio técnico HubSpot Java Backend Empresa Meetime.
 
 ---
 
